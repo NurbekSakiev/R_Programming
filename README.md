@@ -7,11 +7,7 @@
 
 <p class="course-quiz-feedback"> You submitted this quiz on <strong>Sun 12 Apr 2015  1:40 AM PDT</strong>. You got a score of <strong>20.00</strong> out of <strong>20.00</strong>. </p>
 
-
-            <form method="post" id="quiz_form" accept-charset="UTF-8">
-    
-        <div class="course-quiz-preamble">
-        <h3>Introduction</h3>
+###Introduction
 
 <p>This first quiz will check your ability to
 execute basic operations on objects in R and to understand some basic concepts. For questions 11&ndash;20 you will need to load a dataset
