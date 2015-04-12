@@ -1,19 +1,7 @@
 # R_Programming
 
 
-  
-  <a class="coursera-reporter-link" title="Click here if you're experiencing technical problems or found errors in the course materials." target="_blank" href="https://accounts.coursera.org/i/zendesk/courserahelp?return_to=https://learner.coursera.help/hc/articles/201523125-Quizzes">
-     Help Center
-  </a>
-</h2>
-
-
-<a data-coursera-admin-helpwidget-link rel="help" href="https://class.coursera.org/mooc/help/quiz" title="Quiz documentation" style="display:none;">Learn more</a>
-
-
-
-
-                <div class="alert alert-success"> Thank you. Your submission for this quiz was received. </div>
+<div class="alert alert-success"> Thank you. Your submission for this quiz was received. </div>
     
 
 
