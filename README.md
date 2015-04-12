@@ -1005,8 +1005,6 @@ directory.</p>    </div>
         
 
 
-    </form>
-
 <script type="text/x-mathjax-config">
 MathJax.Hub.Config({
   config: ["MMLorHTML.js"],
@@ -1190,13 +1188,13 @@ window._gaq.push(
     ['_trackPageview', window.location.pathname]);
 window._204.push(
   ['client', 'home'],
-  {key:"pageview", value:window.location.pathname});</script><script src="https://dw0ugk4msqulk.cloudfront.net/45a2e13c4a910d8569cd8a8a3f7f8565d720bcee/js/lib/204.js"></script><script src="https://ssl.google-analytics.com/ga.js"></script><![endif]--><div id="fb-root"></div><div id="origami" data-js="origami"><div style="position:absolute;top:0px;left:0px;width:100%;height:100%;background:#f5f5f5;padding-top:5%;"><div id="coursera-loading-nojs" style="text-align:center; margin-bottom:10px;display:none;"><div>Please use a <a href="https://learner.coursera.help/hc/articles/201522945-Recommended-Software-and-Devices">modern browser </a> with JavaScript enabled to use Coursera.</div><div id="get-browser-zh" style="display:none;">请下载现代的浏览器（<a href="http://windows.microsoft.com/zh-cn/internet-explorer/download-ie">IE11</a>或<a href="https://www.google.com/intl/zh-CN/chrome/browser/">Google Chrome</a>）来使用Coursera。</div></div><div><span id="coursera-loading-js" style="display: none; padding-left:45%; font-size: 14px; line-height: 1.428571429; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif">loading &nbsp;&nbsp;<img src="https://dw0ugk4msqulk.cloudfront.net/images/icons/loading.gif"></span></div><noscript><div style="text-align:center; margin-bottom:10px;">Please use a <a href="https://learner.coursera.help/hc/articles/201522945-Recommended-Software-and-Devices">modern browser </a> with JavaScript enabled to use Coursera.</div></noscript></div></div><!--[if gte IE 9]><script>document.getElementById("coursera-loading-js").style.display = 'block';</script><![endif]-->
+  {key:"pageview", value:window.location.pathname});</script><script src="https://dw0ugk4msqulk.cloudfront.net/45a2e13c4a910d8569cd8a8a3f7f8565d720bcee/js/lib/204.js"></script><script src="https://ssl.google-analytics.com/ga.js"></script><![endif]--><!--[if gte IE 9]><script>document.getElementById("coursera-loading-js").style.display = 'block';</script><![endif]-->
 <!--[if lte IE 8]><script>document.getElementById("coursera-loading-nojs").style.display = 'block';</script><![endif]-->
 <!--[if !IE]> --><script>document.getElementById("coursera-loading-js").style.display = 'block';</script><!-- <![endif]--><script>if (/zh/i.test(window.localStorage ? localStorage.getItem('locale') : '') || '{{ locale }}') {
   document.getElementById('get-browser-zh').style.display = 'block';
 }</script><!--[if !IE]> --><script>document.getElementById('coursera-loading-js').style.display = 'block';</script><!-- <![endif]-->
     <script src='https://dw0ugk4msqulk.cloudfront.net/45a2e13c4a910d8569cd8a8a3f7f8565d720bcee/js/vendor/jquery.v1-7.js' ></script>
-      <script src='https://dw0ugk4msqulk.cloudfront.net/45a2e13c4a910d8569cd8a8a3f7f8565d720bcee/spark/core/js/loadOrRefreshMathJax.js' ></script>
+      
   <script src="https://dw0ugk4msqulk.cloudfront.net/45a2e13c4a910d8569cd8a8a3f7f8565d720bcee/js/vendor/require.v2-1-1.js"></script><script data-baseurl="https://dw0ugk4msqulk.cloudfront.net/45a2e13c4a910d8569cd8a8a3f7f8565d720bcee/" data-version="45a2e13c4a910d8569cd8a8a3f7f8565d720bcee" data-timestamp='1428622243318' data-debug='0' data-locale="en_US" id="_require">if(document.getElementById('coursera-loading-js').style.display == 'block') {
   (function(el) {
      require.config({
